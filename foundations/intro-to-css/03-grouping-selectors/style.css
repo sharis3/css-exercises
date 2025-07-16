@@ -1,0 +1,14 @@
+.button {
+    font-size:28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+
+.button.original {
+    background-color: black;
+    color:white;
+}
+
+.button.imposter {
+    background-color: yellow;
+}
